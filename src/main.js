@@ -19,9 +19,9 @@ function setup() {
       this.currentLanguage = current;
     },
     services: [
-      { url: 'javaquin@cisco.com', name: 'Loan' },
-      { url: 'erica.talking@ivr.vc', name: 'Advice' },
-      { url: 'erica.talking@ivr.vc', name: 'Credit' },
+      { url: 'javaquin@cisco.com', name: 'Management' },
+      { url: 'erica.talking@ivr.vc', name: 'Facilities' },
+      { url: 'erica.talking@ivr.vc', name: 'Nurses' },
     ],
   });
 
