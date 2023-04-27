@@ -19,9 +19,9 @@ function setup() {
       this.currentLanguage = current;
     },
     services: [
-      { url: 'mad-dk-demo997794@spaindemo-gaxf6-sandbox.rooms.webex.com', name: 'Management' },
-      { url: 'mad-deskpro-demo@spaindemo-gaxf6-sandbox.rooms.webex.com', name: 'Facilities' },
-      { url: 'mad-dkm-demo@spaindemo-gaxf6-sandbox.rooms.webex.com', name: 'Nurses' },
+      { url: 'mad-dk-demo997794@spaindemo-gaxf6-sandbox.rooms.webex.com', name: 'Administración' },
+      { url: 'mad-deskpro-demo@spaindemo-gaxf6-sandbox.rooms.webex.com', name: 'Servicios' },
+      { url: 'mad-dkm-demo@spaindemo-gaxf6-sandbox.rooms.webex.com', name: 'Enfermería' },
     ],
   });
 
